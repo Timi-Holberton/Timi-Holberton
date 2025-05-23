@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Qui suis-je ?
 
-🌿  Ancienne agricultrice à mon compte pendant 9 ans et auparavant auxiliaire ambulancière pendant 7 ans, je me réinvente aujourd’hui en tant que **développeuse web full-stack**.   
+🌿  Ancienne agricultrice à mon compte pendant 9 ans et auparavant auxiliaire ambulancière pendant 7 ans, je me réinvente aujourd’hui en tant que **développeuse web full-stack**.
 <br>
 <br>
 
