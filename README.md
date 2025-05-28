@@ -57,7 +57,6 @@ RNCP6 Concepteur Développeur d'applications
 
 ## 💼 Me découvrir davantage
 
-- 
 - 📄 [Voir mon CV](https://github.com/Timi-Holberton/Timi-Holberton/blob/main/CV%20Lefoulon%20TM%202025.pdf)
 - 🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/thérèse-marie-lefoulon-08ba24356)
 <br>
@@ -69,6 +68,5 @@ RNCP6 Concepteur Développeur d'applications
 ![Timi-Holberton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timi-Holberton&show_icons=true&theme=default)
 <br>
 <br>
-
 
 > *"Il n’est jamais trop tard pour devenir ce que nous aurions pu être." – George Eliot*
