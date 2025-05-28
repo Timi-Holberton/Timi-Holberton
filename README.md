@@ -1,17 +1,19 @@
 # 👋 bienvenue_sur_mon_profil = "Thérèse-Marie Lefoulon"
 <br>
+## 🎯 Recherche alternance Développeuse Full-Stack RNCP6 Concepteur Développeur d'applications
+<br>
 
 ## 🧑‍💻 Qui suis-je ?
 
-🌿  Ancienne agricultrice à mon compte pendant 9 ans et auparavant auxiliaire ambulancière pendant 7 ans, je me réinvente aujourd’hui en tant que **développeuse web full-stack**.
+🌿  Ancienne agricultrice à mon compte pendant 9 ans et auparavant auxiliaire ambulancière pendant 7 ans, je me réinvente aujourd’hui en tant que **développeuse web full-stack**. Je suis actuellement en formation à Holberton School, depuis Février 2025, pour obtenir mon RNCP 5 Développeur web et web mobile qui se terminera en Novembre 2025. Vous trouverez sur mon github les projets développé dans le cadre de ma formation, des projets solo ou en groupe avec des deadlines.
 <br>
 <br>
 
 ## 💡 Ce qui m’attire dans l’informatique
 
-🎮  Ce qui me fascine, c’est de voir **comment un simple code peut donner naissance à des merveilles**, comme les jeux vidéo ou les interfaces interactives.  
+🎮  Ce qui me fascine, c’est de voir **comment un simple code peut donner naissance à des merveilles**, comme les jeux vidéo, des logiciels ou des interfaces interactives.  
 💻  Je suis particulièrement attirée par la création de **logiciels utiles aux autres**, de **sites web dynamiques**, et par **tout ce qui permet de comprendre les rouages internes** d’un logiciel ou d’un site internet.  
-🧠 J’aime **explorer le “comment” du “pourquoi”**, relever des **défis techniques**,**comprendre les bugs**, et apprendre les **langages informatiques** qui permettent de tout faire fonctionner.
+🧠 J’aime **explorer le “comment” du “pourquoi”**, relever des **défis techniques**,**comprendre les bugs**, et apprendre les **langages informatiques**, au delà de ce que peux apprendre en formation, qui permettent de tout faire fonctionner.
 <br>
 <br>
 
