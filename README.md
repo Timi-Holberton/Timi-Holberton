@@ -30,8 +30,8 @@ RNCP6 Concepteur Développeur d'applications
 ## 🎓 En formation chez Holberton School
 
 📍 Formation intensive en développement web full-stack à [Holberton School de Laval](https://www.holbertonschool.fr/)  
-📅 Fin prévue : **mi-Novembre 2025**  🎯 recherche d’un contrat de professionnalisation dès décembre !
-Projet phare en cours HBnB : Créer une plateforme de type "AirBnB" en ligne de commande et/ou avec interface web, permettant à des utilisateurs de gérer des locations de biens (villes, utilisateurs, lieux, avis, etc.).
+📅 Fin prévue : **mi-Novembre 2025**  🎯 recherche d’un contrat de professionnalisation dès décembre !  
+🧱 Projet phare en cours HBnB : Créer une plateforme de type "AirBnB" en ligne de commande et/ou avec interface web, permettant à des utilisateurs de gérer des locations de biens (villes, utilisateurs, lieux, avis, etc.).
 <br>
 <br>
  
