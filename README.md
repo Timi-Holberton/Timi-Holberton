@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Qui suis-je ?
 
-🌿  Ancienne agricultrice à mon compte pendant 9 ans et auparavant auxiliaire ambulancière pendant 7 ans, je me réinvente aujourd’hui en tant que **développeuse web full-stack**. Je suis actuellement en formation à Holberton School, depuis Février 2025, pour obtenir mon RNCP 5 Développeur web et web mobile qui se terminera en Novembre 2025. Vous trouverez sur mon github les projets développé dans le cadre de ma formation, des projets solo ou en groupe avec des deadlines.
+🌿  Ancienne agricultrice à mon compte pendant 9 ans et auparavant auxiliaire ambulancière pendant 7 ans, je me réinvente aujourd’hui en tant que **développeuse web full-stack**. Je suis actuellement en formation à Holberton School, depuis Février 2025, pour obtenir mon RNCP 5 Développeur web et web mobile qui se terminera en Novembre 2025. Vous trouverez sur mon github les projets développés dans le cadre de ma formation, des projets solo ou en groupe avec des deadlines.
 <br>
 <br>
 
