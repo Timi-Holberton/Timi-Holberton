@@ -55,8 +55,8 @@
 ## 💼 Me découvrir davantage
 
 - 
-- 📄 [Voir mon CV]([https://exemple.com/therese-marie-cv.pdf](https://github.com/Timi-Holberton/Timi-Holberton/blob/main/CV%20Lefoulon%20TM%202025.pdf))
-- 🔗 [Mon profil LinkedIn](www.linkedin.com/in/thérèse-marie-lefoulon-08ba24356)
+- 📄 [Voir mon CV](https://github.com/Timi-Holberton/Timi-Holberton/blob/main/CV%20Lefoulon%20TM%202025.pdf)
+- 🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/thérèse-marie-lefoulon-08ba24356)
 <br>
 
 
