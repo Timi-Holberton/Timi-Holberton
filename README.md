@@ -58,9 +58,9 @@ RNCP6 Concepteur Développeur d'applications
 
 ## 🌐 Mes projets réalisés
 
-🌐 [Projet HBnB – Clone d’AirBnB en groupe](https://github.com/Robin-1998/holbertonschool-hbnb)
-🌐 [Projet Simple Shell en groupe](https://github.com/ThimiDev/hbnb-clone](https://github.com/Timi-Holberton/holbertonschool-simple_shell)
-🌐 [Projet Printf en groupe](https://github.com/ThimiDev/hbnb-clone](https://github.com/Timi-Holberton/holbertonschool-printf)
+🌐 [Projet HBnB – Clone d’AirBnB en groupe](https://github.com/Robin-1998/holbertonschool-hbnb)<br>
+🌐 [Projet Simple Shell en groupe](https://github.com/ThimiDev/hbnb-clone](https://github.com/Timi-Holberton/holbertonschool-simple_shell)<br>
+🌐 [Projet Printf en groupe](https://github.com/ThimiDev/hbnb-clone](https://github.com/Timi-Holberton/holbertonschool-printf)<br>
 
 
 ## 💼 Me découvrir davantage
