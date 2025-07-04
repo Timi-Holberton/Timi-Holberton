@@ -56,6 +56,13 @@ RNCP6 Concepteur Développeur d'applications
 |                                                                                                                  |                                                       | <img src="https://img.shields.io/badge/Postmortem-%23black.svg?logo=google&logoColor=white" width="100" alt="Postmortem"> | Postmortem – prochainement...           |
 <br>
 
+## 🌐 Mes projets réalisés
+
+🌐 [Projet HBnB – Clone d’AirBnB en groupe](https://github.com/Robin-1998/holbertonschool-hbnb)
+🌐 [Projet Simple Shell en groupe](https://github.com/ThimiDev/hbnb-clone](https://github.com/Timi-Holberton/holbertonschool-simple_shell)
+🌐 [Projet Printf en groupe](https://github.com/ThimiDev/hbnb-clone](https://github.com/Timi-Holberton/holbertonschool-printf)
+
+
 ## 💼 Me découvrir davantage
 
 - 📄 [Voir mon CV](https://github.com/Timi-Holberton/Timi-Holberton/blob/main/CV%20Lefoulon%20TM%202025.pdf)
