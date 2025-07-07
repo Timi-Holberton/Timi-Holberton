@@ -16,7 +16,7 @@ RNCP6 Concepteur Développeur d'applications
 
 🎮  Ce qui me fascine, c’est de voir **comment un simple code peut donner naissance à des merveilles**, comme les jeux vidéo, des logiciels ou des interfaces interactives.  
 💻  Je suis particulièrement attirée par la création de **logiciels utiles aux autres**, de **sites web dynamiques**, et par **tout ce qui permet de comprendre les rouages internes** d’un logiciel ou d’un site internet.  
-🧠 J’aime **explorer le “comment” du “pourquoi”**, relever des **défis techniques**,**comprendre les bugs**, et apprendre les **langages informatiques**, au delà de ce que peux apprendre en formation, qui permettent de tout faire fonctionner.
+🧠 J’aime **explorer le “comment” du “pourquoi”**, relever des **défis techniques**, **comprendre les bugs**, et apprendre les **langages informatiques**, au delà de ce que peux apprendre en formation, qui permettent de tout faire fonctionner.
 <br>
 <br>
 
@@ -65,7 +65,10 @@ RNCP6 Concepteur Développeur d'applications
 
 ## 💼 Me découvrir davantage
 
-- 📄 [Voir mon CV](https://github.com/Timi-Holberton/Timi-Holberton/blob/main/CV%20Lefoulon%20TM%202025.pdf)
+- 📄 [Vers mon CV](./CV_projet_TM_Lefoulon_2025.pdf)
+  
+- 📁 [Vers mon Dossier de Candidature complet](./Dossier_candidature.pdf)
+
 - 🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/thérèse-marie-lefoulon-08ba24356)
 <br>
 
