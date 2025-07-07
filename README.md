@@ -1,23 +1,34 @@
-# 👋 bienvenue_sur_mon_profil = "Thérèse-Marie Lefoulon"
+# 👋 Bienvenue sur mon profil
+Je m'appelle Thérèse-Marie Lefoulon et je vous invite à parcourir cette page afin de mieux me connaitre.  
 <br>
 
 ## 🎯 Recherche Alternance Développeuse Full-Stack
-RNCP6 Concepteur Développeur d'applications.  
+[RNCP6 Concepteur Développeur d’applications](https://www.holbertonschool.fr/programme/specialisations/full-stack?utm_campaign=MV-Pmax&utm_medium=cpc&utm_source=google).  
 (Retrouvez mon dossier de candidature en bas de page)
 <br>
 <br>
 
 ## 🧑‍💻 Qui suis-je ?
 
-🌿  Ancienne agricultrice à mon compte pendant 9 ans et auparavant auxiliaire ambulancière pendant 7 ans, je me réinvente aujourd’hui en tant que **développeuse web full-stack**. Je suis actuellement en formation à Holberton School, depuis Février 2025, pour obtenir mon RNCP 5 Développeur web et web mobile qui se terminera en Novembre 2025. Je recherche une alternance Développeuse Full-Stack, RNCP6 Concepteur Développeur d'applications. Vous trouverez sur mon github les projets développés dans le cadre de ma formation, des projets solo ou en groupe avec des deadlines à la semaine.
+🌿  Pendant plus de 20 ans, j’ai exercé dans des domaines aussi concrets qu’humains. J’ai d’abord travaillé comme ébéniste et marqueteuse, où j’ai appris la patience, le sens du détail et l'exigence artisanale. J’ai ensuite été auxiliaire ambulancière pendant 8 ans, un métier qui m’a forgé une solide capacité d’écoute, d’adaptation et de réactivité face à l’imprévu. Enfin, j’ai dirigé pendant 10 ans ma propre exploitation agricole, où j’ai assuré à la fois la production, la vente directe, la gestion administrative, et l’encadrement d’équipe.  
+<br>
+&nbsp;&nbsp;&nbsp;À travers ces expériences, j’ai toujours eu un fil rouge : résoudre des problèmes concrets, construire du durable et apprendre par moi-même.  
+<br>
+&nbsp;&nbsp;&nbsp;Aujourd’hui, j’ai choisi de me reconvertir vers un métier porteur de sens pour moi : le développement web. Je me forme actuellement à Holberton School à Laval dans le cadre du titre RNCP 5 « Développeur Web et Web Mobile », au sein d’un programme intensif en peer-learning. J’ai déjà mené plusieurs projets : HBNB, clône d’un site de réservation de maison, simple shell, Printf… Ce parcours exigeant me permet de mobiliser ma rigueur, ma créativité et ma capacité à apprendre vite.  
+<br>
+&nbsp;&nbsp;&nbsp;Je souhaite désormais intégrer une entreprise en contrat de professionnalisation à partir de Décembre 2025, pour poursuivre ma montée en compétences dans le cadre du titre RNCP 6 « Concepteur Développeur d’Applications ». Mon objectif est de contribuer activement à des projets de développement, continuer à progresser techniquement, et devenir une développeuse capable de concevoir des applications utiles, robustes et bien pensées, en équipe.  
+<br>
+&nbsp;&nbsp;&nbsp;Curieuse, engagée, et toujours motivée par l’envie de construire, je suis prête à m’investir pleinement dans cette nouvelle aventure professionnelle.
 <br>
 <br>
 
 ## 💡 Ce qui m’attire dans l’informatique
 
 🎮  Ce qui me fascine, c’est de voir **comment un simple code peut donner naissance à des merveilles**, comme les jeux vidéo, des logiciels ou des interfaces interactives.  
-💻  Je suis particulièrement attirée par la création de **logiciels utiles aux autres**, de **sites web dynamiques**, et par **tout ce qui permet de comprendre les rouages internes** d’un logiciel ou d’un site internet.  
-🧠 J’aime **explorer le “comment” du “pourquoi”**, relever des **défis techniques**, **comprendre les bugs**, et apprendre les **langages informatiques**, au delà de ce que peux apprendre en formation, qui permettent de tout faire fonctionner.
+ <br>
+ &nbsp;&nbsp;&nbsp;Je suis particulièrement attirée par la création de **logiciels utiles aux autres**, de **sites web dynamiques**, et par **tout ce qui permet de comprendre les rouages internes** d’un logiciel ou d’un site internet.  
+ <br>
+ &nbsp;&nbsp;&nbsp;J’aime **explorer le “comment” du “pourquoi”**, relever des **défis techniques**, **comprendre les bugs**, et apprendre les **langages informatiques**, au delà de ce que peux apprendre en formation, qui permettent de tout faire fonctionner.
 <br>
 <br>
 
@@ -30,9 +41,15 @@ RNCP6 Concepteur Développeur d'applications.
  
 ## 🎓 En formation chez Holberton School
 
-📍 Formation intensive en développement web full-stack à [Holberton School de Laval](https://www.holbertonschool.fr/)  
-📅 Fin prévue : **mi-Novembre 2025**  🎯 recherche d’un contrat de professionnalisation dès décembre !  
-🧱 Projet phare en cours HBnB : Créer une plateforme de type "AirBnB" en ligne de commande et/ou avec interface web, permettant à des utilisateurs de gérer des locations de biens (villes, utilisateurs, lieux, avis, etc.).
+Formation intensive en développement web full-stack à [Holberton School de Laval](https://www.holbertonschool.fr/)  
+Fin prévue : **mi-Novembre 2025**  🎯 recherche d’un contrat de professionnalisation dès décembre !  
+<br>
+🏠 Projet phare en cours HBnB : Créer une plateforme de type "AirBnB" en ligne de commande et/ou avec interface web, permettant à des utilisateurs de gérer des locations de biens (villes, utilisateurs, lieux, avis, etc.).  
+<br>
+## 🌐 Mes projets réalisés ou en cours
+🔗 [Projet HBnB](https://github.com/Robin-1998/holbertonschool-hbnb) en collaboration avec Robin, en cours.  
+🔗 [Projet Simple Shell](https://github.com/Timi-Holberton/holbertonschool-simple_shell) en collaboration avec Robin.  
+🔗 [Projet Printf](https://github.com/Timi-Holberton/holbertonschool-printf) en collaboration avec Samira.  
 <br>
 <br>
  
@@ -56,13 +73,6 @@ RNCP6 Concepteur Développeur d'applications.
 | <img src="https://img.shields.io/badge/SSL-green?logo=letsencrypt&logoColor=white" width="90" alt="SSL"> | SSL – prochainement...   | <img src="https://img.shields.io/badge/Code_Deployment-blue?logo=digitalocean" width="130" alt="Code Deployment"> | Déploiement – prochainement...   |
 |                                                                                                                  |                                                       | <img src="https://img.shields.io/badge/Postmortem-%23black.svg?logo=google&logoColor=white" width="100" alt="Postmortem"> | Postmortem – prochainement...           |
 <br>
-
-## 🌐 Mes projets réalisés
-
-🌐 [Projet HBnB – Clone d’AirBnB en groupe](https://github.com/Robin-1998/holbertonschool-hbnb)<br>
-🌐 [Projet Simple Shell en groupe](https://github.com/Timi-Holberton/holbertonschool-simple_shell)<br>
-🌐 [Projet Printf en groupe](https://github.com/Timi-Holberton/holbertonschool-printf)<br>
-
 
 ## 💼 Me découvrir davantage
 
