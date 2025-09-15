@@ -47,7 +47,7 @@ Fin prévue : **mi-Novembre 2025**  🎯 recherche d’un contrat de professionn
 🏠 Projet phare en cours HBnB : Créer une plateforme de type "AirBnB" en ligne de commande et/ou avec interface web, permettant à des utilisateurs de gérer des locations de biens (villes, utilisateurs, lieux, avis, etc.).  
 <br>
 ## 🌐 Mes projets réalisés ou en cours
-🔗 [Projet HBnB](https://github.com/Robin-1998/holbertonschool-hbnb) en collaboration avec Robin, en cours.  
+🔗 [Projet HBnB](https://github.com/Robin-1998/holbertonschool-hbnb) en collaboration avec Robin, Front end en individuel.  
 🔗 [Projet Simple Shell](https://github.com/Timi-Holberton/holbertonschool-simple_shell) en collaboration avec Robin.  
 🔗 [Projet Printf](https://github.com/Timi-Holberton/holbertonschool-printf) en collaboration avec Samira.  
 <br>
