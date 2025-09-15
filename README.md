@@ -53,25 +53,15 @@ Fin prévue : **mi-Novembre 2025**  🎯 recherche d’un contrat de professionn
 <br>
 <br>
  
-# 🔧 Compétences en cours d’acquisition
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 Langages de programmation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔧 Outils, Shell & Compilation  
+# 🔧 Compétences
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"> | C - Projet réalisé : Printf, Simple shell.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"> | Git – Gestionnaire de versions distribué.     |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"> | C - Projet réalisé : Printf, Simple shell.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        |  |      |
 |:-------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"> | Python – en cours d’acquisition. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"> | Bash – Shell et scripting pour automatisation. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"> | JavaScript – prochainement...            | <img src="https://img.shields.io/badge/Makefile-blue?logo=gnu" width="90" alt="Makefile"> | Makefile – prochainement...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="SQL"> | SQL – en cours d’acquisition | <img src="https://img.shields.io/badge/Shell-black?logo=gnubash" width="90" alt="Shell"> | Shell – Interface en ligne de commande système. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"> | Python - Projet HBnB |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"> | JavaScript - Projet HBnB |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="SQL"> | SQL - Projet HBnB |
+| <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="40" alt="SQL"> | Java - en cours d'apprentissage |
 
-<br>
-
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 Développement Web & API&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 Déploiement, Serveurs & Monitoring  
-
-| <img src="https://img.shields.io/badge/REST_API-%23000000.svg?logo=fastapi&logoColor=white" width="90" alt="REST API"> | REST API – en cours d’acquisition | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus"> | Prometheus – prochainement... |
-|:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"> | Flask – en cours d’acquisition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               | <img src="https://img.shields.io/badge/Load_Balancer-lightgrey?logo=nginx" width="110" alt="Load Balancer"> | Load Balancer – prochainement...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
-| <img src="https://img.shields.io/badge/SSH-%23000000.svg?logo=openssh&logoColor=white" width="90" alt="SSH"> | SSH – prochainement...      | <img src="https://img.shields.io/badge/Firewall-darkred?logo=datadog&logoColor=white" width="90" alt="Firewall"> | Firewall – prochainement...      |
-| <img src="https://img.shields.io/badge/SSL-green?logo=letsencrypt&logoColor=white" width="90" alt="SSL"> | SSL – prochainement...   | <img src="https://img.shields.io/badge/Code_Deployment-blue?logo=digitalocean" width="130" alt="Code Deployment"> | Déploiement – prochainement...   |
-|                                                                                                                  |                                                       | <img src="https://img.shields.io/badge/Postmortem-%23black.svg?logo=google&logoColor=white" width="100" alt="Postmortem"> | Postmortem – prochainement...           |
 <br>
 
 ## 💼 Me découvrir davantage
