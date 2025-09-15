@@ -42,14 +42,21 @@ Je m'appelle Thérèse-Marie Lefoulon et je vous invite à parcourir cette page 
 ## 🎓 En formation chez Holberton School
 
 Formation intensive en développement web full-stack à [Holberton School de Laval](https://www.holbertonschool.fr/)  
-Fin prévue : **mi-Novembre 2025**  🎯 recherche d’un contrat de professionnalisation dès décembre !  
+Holberton School c'est :  
+ - L'Apprentissage autonome, la collaboration entre pairs et des défis progressifs.
+
+Fin prévue : **mi-Novembre 2025**  
 <br>
-🏠 Projet phare en cours HBnB : Créer une plateforme de type "AirBnB" en ligne de commande et/ou avec interface web, permettant à des utilisateurs de gérer des locations de biens (villes, utilisateurs, lieux, avis, etc.).  
+
+## 🌐 Mes projets réalisés ou en cours  
+
+🔗 Portfolio - Projet de fin d'année - en cours.
 <br>
-## 🌐 Mes projets réalisés ou en cours
-🔗 [Projet HBnB](https://github.com/Robin-1998/holbertonschool-hbnb) en collaboration avec Robin, Front end en individuel.  
-🔗 [Projet Simple Shell](https://github.com/Timi-Holberton/holbertonschool-simple_shell) en collaboration avec Robin.  
-🔗 [Projet Printf](https://github.com/Timi-Holberton/holbertonschool-printf) en collaboration avec Samira.  
+🔗 [Projet HBnB](https://github.com/Robin-1998/holbertonschool-hbnb) en collaboration avec Robin, Front end en individuel.
+<br>
+🔗 [Projet Simple Shell](https://github.com/Timi-Holberton/holbertonschool-simple_shell) en collaboration avec Robin.
+<br>
+🔗 [Projet Printf](https://github.com/Timi-Holberton/holbertonschool-printf) en collaboration avec Samira.
 <br>
 <br>
  
