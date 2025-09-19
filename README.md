@@ -4,7 +4,7 @@ Je m'appelle Thérèse-Marie Lefoulon et je vous invite à parcourir cette page 
 
 ## 🎯 Recherche Alternance Développeuse Full-Stack
 [RNCP6 Concepteur Développeur d’applications](https://www.holbertonschool.fr/programme/specialisations/full-stack?utm_campaign=MV-Pmax&utm_medium=cpc&utm_source=google).  
-Rentrée MARS 2025 - Possibilité de stage entre mi-Novembre 2025 à MARS 2026.  
+Rentrée MARS 2026 - Possibilité de stage entre mi-Novembre 2025 à MARS 2026.  
 (Retrouvez mon dossier de candidature en bas de page)
 <br>
 <br>
