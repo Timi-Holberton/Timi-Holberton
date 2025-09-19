@@ -34,7 +34,7 @@ Je m'appelle Thérèse-Marie Lefoulon et je vous invite à parcourir cette page 
 
 ## 🎯 Objectif professionnel
 
-🔎  Je suis à la **recherche d’un contrat de professionnalisation** en développement web full-stack à partir de **décembre 2025**,
+🔎  Je suis à la **recherche d’un contrat de professionnalisation** en développement web full-stack à partir de **MARS 2025**,
     au sein d’une entreprise qui valorise l'humain, l’engagement, la curiosité, et l’envie de progresser chaque jour.
 <br>
 <br>
